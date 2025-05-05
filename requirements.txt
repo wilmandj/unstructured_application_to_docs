@@ -1,0 +1,11 @@
+Pillow
+pydantic
+langchain-core
+langgraph
+pandas
+numpy==1.26.4
+charset-normalizer<3.0
+pytesseract
+unstructured[local-inference]
+matplotlib
+seaborn
